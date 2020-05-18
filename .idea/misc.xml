@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter 1/01_03/01_03_Begin/initial-boot-app/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 1/01_03/01_03_End/initial-boot-app/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 1/01_04/01_04_Begin/initial-boot-app/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 1/01_04/01_04_End/initial-boot-app/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="true" project-jdk-name="14" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
