@@ -6,11 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="room-web-app" />
         <module name="initial-boot-app (3)" />
+        <module name="room-web-app (1) (com.frankmoley.boot.landon)" />
+        <module name="initial-boot-app (4)" />
+        <module name="room-web-app (3) (com.frankmoley.boot.landon)" />
         <module name="initial-boot-app" />
-        <module name="initial-boot-app (2)" />
+        <module name="room-web-app (2) (com.frankmoley.boot.landon)" />
         <module name="initial-boot-app (1)" />
+        <module name="initial-boot-app (2)" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="room-web-app" options="-parameters" />
+      <module name="room-web-app (2) (com.frankmoley.boot.landon)" options="-parameters" />
+    </option>
   </component>
 </project>
