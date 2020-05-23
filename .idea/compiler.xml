@@ -11,7 +11,10 @@
         <module name="room-web-app (1) (com.frankmoley.boot.landon)" />
         <module name="initial-boot-app (4)" />
         <module name="room-web-app (3) (com.frankmoley.boot.landon)" />
+        <module name="room-web-app (4) (com.frankmoley.boot.landon)" />
+        <module name="room-clr-app (1)" />
         <module name="initial-boot-app" />
+        <module name="room-clr-app" />
         <module name="room-web-app (2) (com.frankmoley.boot.landon)" />
         <module name="initial-boot-app (1)" />
         <module name="initial-boot-app (2)" />
@@ -20,8 +23,10 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="room-clr-app" options="-parameters" />
       <module name="room-web-app" options="-parameters" />
       <module name="room-web-app (2) (com.frankmoley.boot.landon)" options="-parameters" />
+      <module name="room-web-app (4) (com.frankmoley.boot.landon)" options="-parameters" />
     </option>
   </component>
 </project>
