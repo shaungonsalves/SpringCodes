@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: shaun
+Build-Jdk: 14.0.1
+Implementation-Title: room-clr-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.frankmoley.boot.clr
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/room-clr-app/
+Created-By: Maven Integration for Eclipse
+

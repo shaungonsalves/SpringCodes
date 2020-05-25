@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.frankmoley.boot.essentials.initialbootapp.InitialBootAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.301 sec - in com.frankmoley.boot.essentials.initialbootapp.InitialBootAppApplicationTests
