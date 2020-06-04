@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: shaun
+Build-Jdk: 14.0.1
+Implementation-Title: room-cleaner-consumer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.frankmoley.boot.landon
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/room-cleaner-c
+ onsumer/
+Created-By: Maven Integration for Eclipse
+
